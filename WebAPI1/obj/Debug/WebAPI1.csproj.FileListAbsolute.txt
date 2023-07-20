@@ -54,6 +54,8 @@ C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Antlr3.Runtime.dll
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\EntityFramework.dll
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\EntityFramework.SqlServer.dll
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Newtonsoft.Json.dll
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Swashbuckle.Core.dll
@@ -71,6 +73,8 @@ C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\WebActivatorEx.dll
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\WebGrease.dll
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\EntityFramework.xml
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\EntityFramework.SqlServer.xml
+C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Newtonsoft.Json.xml
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\System.Net.Http.Formatting.xml
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\System.Web.Helpers.xml
@@ -84,8 +88,134 @@ C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\System.Web.WebPages.Deploymen
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\System.Web.WebPages.Razor.xml
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Antlr3.Runtime.pdb
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\araddank\source\repos\WebAPI1\WebAPI1\obj\Debug\WebAPI1.csproj.AssemblyReference.cache
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\obj\Debug\WebAPI1.csproj.CoreCompileInputs.cache
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\obj\Debug\WebAPI1.csproj.CopyComplete
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\obj\Debug\WebAPI1.dll
 C:\Users\araddank\source\repos\WebAPI1\WebAPI1\obj\Debug\WebAPI1.pdb
+C:\Users\araddank\source\repos\WebAPI1\WebAPI1\obj\Debug\WebAPI1.csproj.AssemblyReference.cache
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\WebAPI1.dll.config
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\WebAPI1.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\WebAPI1.pdb
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\csc.exe
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\csc.exe.config
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\csc.rsp
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\csi.exe
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\csi.exe.config
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\csi.rsp
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.AppContext.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Collections.Immutable.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Console.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Globalization.Calendars.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.IO.Compression.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.IO.FileSystem.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Net.Http.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Net.Sockets.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Reflection.Metadata.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.ValueTuple.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Xml.XPath.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\vbc.exe
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\vbc.exe.config
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\vbc.rsp
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\VBCSCompiler.exe
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\roslyn\VBCSCompiler.exe.config
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Antlr3.Runtime.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\EntityFramework.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\EntityFramework.SqlServer.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.DependencyCollector.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.Web.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.WindowsServer.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.ApplicationInsights.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.Web.Infrastructure.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Newtonsoft.Json.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Swashbuckle.Core.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Buffers.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Memory.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Net.Http.Formatting.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Numerics.Vectors.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Helpers.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Http.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Http.WebHost.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Mvc.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Optimization.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Razor.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.WebPages.Deployment.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.WebPages.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.WebPages.Razor.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\WebActivatorEx.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\WebGrease.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\EntityFramework.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\EntityFramework.SqlServer.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.DependencyCollector.pdb
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.DependencyCollector.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.PerfCounterCollector.pdb
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.Web.pdb
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.Web.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.WindowsServer.pdb
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AI.WindowsServer.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.ApplicationInsights.pdb
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.ApplicationInsights.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Buffers.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Memory.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Numerics.Vectors.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Newtonsoft.Json.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Net.Http.Formatting.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Helpers.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Http.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Http.WebHost.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Mvc.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Optimization.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.Razor.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.WebPages.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.WebPages.Deployment.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\System.Web.WebPages.Razor.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Antlr3.Runtime.pdb
+D:\LAb Repro\WebAPI-SDK\WebAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LAb Repro\WebAPI-SDK\WebAPI1\obj\Debug\WebAPI1.csproj.AssemblyReference.cache
+D:\LAb Repro\WebAPI-SDK\WebAPI1\obj\Debug\WebAPI1.csproj.CoreCompileInputs.cache
+D:\LAb Repro\WebAPI-SDK\WebAPI1\obj\Debug\WebAPI1.csproj.CopyComplete
+D:\LAb Repro\WebAPI-SDK\WebAPI1\obj\Debug\WebAPI1.dll
+D:\LAb Repro\WebAPI-SDK\WebAPI1\obj\Debug\WebAPI1.pdb

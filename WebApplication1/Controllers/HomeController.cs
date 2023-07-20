@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.EnterpriseServices.CompensatingResourceManager;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -20,8 +21,8 @@ namespace WebApplication1.Controllers
 
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("https://localhost:44341/api/Swagger");
-
+                 client.BaseAddress = new Uri("https://webappaidemodnfsdk2.azurewebsites.net/api/Employee");
+               // client.BaseAddress = new Uri("https://localhost:44341/api/swagger");
                 //Called Member default GET All records  
                 //GetAsync to send a GET request   
                 // PutAsync to send a PUT request  
@@ -54,7 +55,8 @@ namespace WebApplication1.Controllers
 
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("https://localhost:44341/api");
+               // client.BaseAddress = new Uri("https://localhost:44341/api/swagger");
+                client.BaseAddress = new Uri("https://webappaidemodnfsdk2.azurewebsites.net/api/Employee");
 
                 //Called Member default GET All records  
                 //GetAsync to send a GET request   
@@ -97,39 +99,40 @@ namespace WebApplication1.Controllers
 
             return View();
         }
-        public ActionResult Delete()
-        {
-            IEnumerable<MemberViewModel> members = null;
+       // public ActionResult Delete()
+       // {
+            /* IEnumerable<MemberViewModel> members = null;
 
-            using (var client = new HttpClient())
-            {
-                client.BaseAddress = new Uri("https://localhost:44341/api/swagger");
+             using (var client = new HttpClient())
+             {
+                 client.BaseAddress = new Uri("https://localhost:44341/api/swagger");
 
-                //Called Member default GET All records  
-                //GetAsync to send a GET request   
-                // PutAsync to send a PUT request  
-                var responseTask = client.GetAsync("employee");
-                responseTask.Wait();
+                 //Called Member default GET All records  
+                 //GetAsync to send a GET request   
+                 // PutAsync to send a PUT request  
+               //  var responseTask = client.GetAsync("employee");
+                 var responseTask = client.DeleteAsync("employee");
+                 responseTask.Wait();
 
-                //To store result of web api response.   
-                var result = responseTask.Result;
+                 //To store result of web api response.   
+                 var result = responseTask.Result;
 
-                //If success received   
-                if (result.IsSuccessStatusCode)
-                {
-                    var readTask = result.Content.ReadAsAsync<IList<MemberViewModel>>();
-                    readTask.Wait();
+                 //If success received   
+                 if (result.IsSuccessStatusCode)
+                 {
+                     var readTask = result.Content.ReadAsAsync<IList<MemberViewModel>>();
+                     readTask.Wait();
 
-                    members = readTask.Result;
-                }
-                else
-                {
-                    //Error response received   
-                    members = Enumerable.Empty<MemberViewModel>();
-                    ModelState.AddModelError(string.Empty, "Server error try after some time.");
-                }
-            }
-            return View(members);
-        }
+                     members = readTask.Result;
+                 }
+                 else
+                 {
+                     //Error response received   
+                     members = Enumerable.Empty<MemberViewModel>();
+                     ModelState.AddModelError(string.Empty, "Server error try after some time.");
+               }
+          }  */
+        //    return View();
+       // }
     }
 }
